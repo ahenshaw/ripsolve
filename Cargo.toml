@@ -3,7 +3,7 @@ name = "ripsolve"
 authors = ["Andrew Henshaw <andrew@henshaw.us>"]
 version = "0.0.1"
 description = "Rust Integer Programming Solver"
-repository = "https://github.com/ahenshaw/ripsolve"
+repository = "https://github.com/ripsolve"
 categories = ["algorithms", "science"]
 license = "MIT"
 
