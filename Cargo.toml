@@ -1,7 +1,11 @@
 [package]
 name = "ripsolve"
-version = "0.1.0"
 authors = ["Andrew Henshaw <andrew@henshaw.us>"]
+version = "0.0.1"
+description = "Rust Integer Programming Solver"
+repository = "https://github.com/ahenshaw/ripsolve"
+categories = ["algorithms", "science"]
+license = "MIT"
 
 [dependencies]
 ndarray = "0.11.0"
